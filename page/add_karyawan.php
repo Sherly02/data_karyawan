@@ -1,4 +1,4 @@
-    <h1>Tambah Produk</h1>
+    <h1>Tambah Karyawan</h1>
     <center>
         <form method="POST" action="add_process.php" enctype="multipart/form-data" >
             <section>
